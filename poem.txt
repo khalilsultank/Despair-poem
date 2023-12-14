@@ -4,4 +4,4 @@ Black
 Dark Gray
 White
 These are the colors of Despair.
-Crimson
+
